@@ -1,0 +1,18 @@
+[
+{
+  "modid": "ecologicraft",
+  "name": "EcologiCraft",
+  "description": "The only true eco-friendly tech and world-changing mod for Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dewy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "Minecraft Forge 1.12"
+  ]
+}
+]
