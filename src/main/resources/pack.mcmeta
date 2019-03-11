@@ -1,0 +1,8 @@
+{
+    "pack":
+    {
+        "description": "EcologiCraft Resources",
+        "pack_format": 3,
+        "_comment": "This pack contains all of the resources/assets that EcologiCraft needs, such as textures, models and sounds."
+    }
+}
